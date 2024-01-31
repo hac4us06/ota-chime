@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1706677345,
+	"filename": "GenesisOS-Utopia-v1.0-violet-OFFICIAL-20240131-0502.zip",
+	"id": "050fcf298b46da4fd05a0d57aaed038140401696caf3329f30c9ed01c22304a1",
+	"size": 2018496424,
+        "url": "https://dl.genesisos.dev/0:/violet/GenesisOS-Utopia-v1.0-violet-OFFICIAL-20240131-0502.zip",
+        "version": "v1.0",
+	"devicename": "Redmi Note 7 Pro",
+	"maintainer": "Asad x Pain"
+    }
+  ]
+}

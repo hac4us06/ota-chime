@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: Asad x Pain
+
+=====  31 January 2024 =====
+
+* Initial release
