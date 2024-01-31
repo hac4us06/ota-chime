@@ -1,0 +1,4 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10
+Device maintainer: Arefin

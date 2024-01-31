@@ -1,0 +1,4 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F5
+Device maintainer: Prajwal x Nitish x Talha

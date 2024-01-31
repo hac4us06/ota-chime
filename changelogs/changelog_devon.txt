@@ -1,0 +1,4 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Moto G32
+Device maintainer: Ayush x José
