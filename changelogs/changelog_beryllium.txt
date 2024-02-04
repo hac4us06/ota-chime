@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Poco F1
 Device maintainer: Akshat
+
+=====  04 February 2024 =====
+
+* Initial release
