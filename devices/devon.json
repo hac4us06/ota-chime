@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1707936527,
+	"filename": "GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240214-1848.zip",
+	"id": "773e8a2650604ef0fcdf55b55934e3ac6effac439d62015c97c97c4ca1f08825",
+	"size": 1688943184,
+        "url": "https://dl.genesisos.dev/0:/devon/GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240214-1848.zip",
+        "version": "v1.0",
+	"devicename": "Moto G32",
+	"maintainer": "Ayush x José"
+    }
+  ]
+}
