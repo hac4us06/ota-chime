@@ -1,3 +1,11 @@
+===== 14 February 2024 =====
+
+* February Security Patch
+* Added support for expanded volume dialog
+* Added AiWallpapers
+* Added our own Bootanimation
+* Fixed a bug where adb wasn't working on recovery for some devices
+
 ===== 31 January 2024 =====
 
 * January Security Patch
