@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1708002157,
+	"filename": "GenesisOS-Utopia-v1.0-rhode-OFFICIAL-20240215-1305.zip",
+	"id": "a54f5e78ea9143a8c97c0c106b56540e8c02d8ff56241c3907bf4310751c0a6e",
+	"size": 1687288121,
+        "url": "https://dl.genesisos.dev/0:/rhode/GenesisOS-Utopia-v1.0-rhode-OFFICIAL-20240215-1305.zip",
+        "version": "v1.0",
+	"devicename": "Moto G52",
+	"maintainer": "Ayush x José"
+    }
+  ]
+}
