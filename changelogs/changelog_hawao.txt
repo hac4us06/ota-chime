@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Moto G42
 Device maintainer: Ayush x José
+
+=====  15 February 2024 =====
+
+* Initial release

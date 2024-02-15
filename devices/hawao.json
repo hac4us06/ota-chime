@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1707986292,
+	"filename": "GenesisOS-Utopia-v1.0-hawao-OFFICIAL-20240215-0841.zip",
+	"id": "7cb0e14099ab6069c1889ddd49263e18a9d63d6fb5c8d5bff5eef5ba8f79509f",
+	"size": 1685659518,
+        "url": "https://dl.genesisos.dev/0:/hawao/GenesisOS-Utopia-v1.0-hawao-OFFICIAL-20240215-0841.zip",
+        "version": "v1.0",
+	"devicename": "Moto G42",
+	"maintainer": "Ayush x José"
+    }
+  ]
+}
