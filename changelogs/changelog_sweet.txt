@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Redmi Note 10 Pro/Pro Max
 Device maintainer: Alen
+
+=====  15 February 2024 =====
+
+* Initial release
