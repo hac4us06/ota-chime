@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1708677496,
+	"filename": "GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240223-0838.zip",
+	"id": "524add6ea3cf76e5eb1bd471219402b6237fc98987d45e95330b73f5f1c060d4",
+	"size": 2403619355,
+        "url": "https://dl.genesisos.dev/0:/marble/GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240223-0838.zip",
+        "version": "v1.0",
+	"devicename": "POCO F5",
+	"maintainer": "Prajwal x Nitish x Talha"
+    }
+  ]
+}
