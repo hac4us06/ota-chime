@@ -3,6 +3,11 @@ Build type: Stable
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: Asad x Pain
 
+=====  23 February 2024 =====
+
+* Added Micam
+* Miscellaneous changes
+
 =====  31 January 2024 =====
 
 * Initial release
