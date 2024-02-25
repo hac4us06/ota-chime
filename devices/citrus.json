@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1708856992,
+	"filename": "GenesisOS-Utopia-v1.0-citrus-OFFICIAL-20240225-1031.zip",
+	"id": "0994ee531536cfa78d114067f3c934cc1f932577ebadda0dc0522cc3c1d484b9",
+	"size": 1891900630,
+        "url": "https://dl.genesisos.dev/0:/citrus/GenesisOS-Utopia-v1.0-citrus-OFFICIAL-20240225-1031.zip",
+        "version": "v1.0",
+	"devicename": "Poco M3",
+	"maintainer": "hac4us"
+    }
+  ]
+}

@@ -2,3 +2,14 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Poco M3
 Device maintainer: Ash
+
+=====  25 February 2024 =====
+Move to power-libperfmgr AIDL to replace qti-power
+Speed profile services and wifi-service to reduce RAM and storage
+Import dexopt speed profile apps from redbull
+Upstream kernel to 4.19.306
+Set speed profile for Settings app
+Import powerhint and changes
+Allow power HAL to write to devfreq sysfs
+Setup debug tools
+Set missing permission for dt2w
